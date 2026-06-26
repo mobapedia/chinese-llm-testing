@@ -31,3 +31,5 @@ DECODE:
 str.replaceAll("ᦜ", "")
 
 All questions were asked in seperate chat sessions, with the first message being the encoding instructions and the second being the question.
+It is possible that having the model respond in this way made it be less biased than it normally would?
+One time i asked about tiananmen square and it responded with text saying no
