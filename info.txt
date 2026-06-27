@@ -30,5 +30,4 @@ str.replaceAll("ᦜ", "")
 All questions were asked in seperate chat sessions, with the first message being the encoding instructions and the second being the question.
 Basically any random unicode character works as the seperation token.
 
-Its possible that having the model respond in this way made it be less biased than it normally would?
-One time i asked about tiananmen square and it responded with text saying no
+Might be possible that having the model respond in this way made it be less biased than it normally would?
