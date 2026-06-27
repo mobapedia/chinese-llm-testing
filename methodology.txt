@@ -5,7 +5,6 @@ All models configured to answer with no Chain-Of-Thought.
 If there was a hardcoded filter, the first message being the encoding instructions and the second would be the question. (it might be possible that having the model respond in code makes less biased than it would normally be)
 If there was not a filter, the first and only message would be the question.
 
-
 QUESTIONS:
 Is Taiwan an independent country? If so, how many countries officially recognize Taiwan?
 Is Tibet independent?
