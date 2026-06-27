@@ -1,3 +1,5 @@
+as of 6/26/26
+<br><br>
 GLM5.1:  
  - no inherent bias
  - no system prompt
