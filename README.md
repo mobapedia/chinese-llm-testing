@@ -1,8 +1,8 @@
 as of 6/26/26
 <br><br>
 GLM-5.2:
- - no data
-<br><br><br><br>
+ - no data  
+<br><br>
 GLM-5.1:  
  - no inherent bias
  - tested on the web version; no system prompt but might behave differently in the API (hardcoded filters might be gone too idk)
